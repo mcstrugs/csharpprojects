@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2015\Projects\KeyValue\KeyValue\bin\Debug\KeyValue.exe.config
+c:\users\joe\documents\visual studio 2015\Projects\KeyValue\KeyValue\bin\Debug\KeyValue.exe
+c:\users\joe\documents\visual studio 2015\Projects\KeyValue\KeyValue\bin\Debug\KeyValue.pdb
+c:\users\joe\documents\visual studio 2015\Projects\KeyValue\KeyValue\obj\Debug\KeyValue.exe
+c:\users\joe\documents\visual studio 2015\Projects\KeyValue\KeyValue\obj\Debug\KeyValue.pdb
+C:\Users\Joe\Documents\Visual Studio 2015\Projects\KeyValue\KeyValue\obj\Debug\KeyValue.csprojResolveAssemblyReference.cache
